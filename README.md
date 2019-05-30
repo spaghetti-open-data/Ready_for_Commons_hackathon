@@ -1,4 +1,4 @@
-# Come diventare un Data asset Manager Game
+# Ready for Commons: come diventare un Data asset Manager 
 
 ## Open Business Model Hackathon su dati del Comune di Milano
 
