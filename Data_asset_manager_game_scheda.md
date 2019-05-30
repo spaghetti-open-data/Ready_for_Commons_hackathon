@@ -2,18 +2,18 @@
 
 ## 1. INTRO & INFORMAZIONI GENERALI
 
-**Nome del Team**:
+**1.1.1 Nome del Team**:
 
-**Referente e ruolo**:
+**1.1.2 Referente e ruolo**:
 
-**Introduci il tuo team in max 280 caratteri**:
+**1.1.3 Introduci il tuo team in max 280 caratteri**:
 
-**A quale settore vi rivolgete?**
+**1.2 A quale settore vi rivolgete?**
 
 * xyz
 * xyz
 
-### Sommario del business pitch (NABC)
+### 1.3 Sommario del business pitch (NABC)
 
 **N: Necessità** - Quali sono i problemi dei clienti/committenti e le dimensioni del mercato
 
@@ -32,27 +32,27 @@ B:
 
 C:
 
-### Elencare i dati & servizi
+### 1.4 Elencare i dati & servizi
 
 1. xyz
 2.
 
 **Descrivere puntualmente i dati & servizi in elenco (max 3.000  caratteri esclusi gli spazi)**
 
-## ESECUZIONE
+## 2. ESECUZIONE
 
-### Pacchetti di lavoro, attività, misure e tempistica:
+### 2.1 Pacchetti di lavoro, attività, misure e tempistica:
 
-#### PACCHETTO DI LAVORO (epiche) (COMPITI/ ATTIVITÀ )
+#### 2.1.1 PACCHETTO DI LAVORO (epiche) (COMPITI/ ATTIVITÀ )
 
-#### MISURAZIONI/CONSEGNE
+#### 2.1.2 MISURAZIONI/CONSEGNE
 
-#### TIMELINE DI IMPLEMENTAZIONE*
+#### 2.1.3 TIMELINE DI IMPLEMENTAZIONE*
 
 * *il tempo massimo di implementazione è 12 mesi*
 
-### I rischi e le difficoltà più importanti nel tuo progetto per ottenere risultati attesi ed eseguire le attività / attività dell'elenco. Riduzione rischi e azioni alternative.
+### 2.2 I rischi e le difficoltà più importanti nel tuo progetto per ottenere risultati attesi ed eseguire le attività / attività dell'elenco. Riduzione rischi e azioni alternative.
 
-#### RISCHI & DIFFICOLTÀ
+#### 2.2.1 RISCHI & DIFFICOLTÀ
 
-#### RIDUZIONE RISCHI & AZIONI IN CASO DI FALLIMENTO
+#### 2.2.2 RIDUZIONE RISCHI & AZIONI IN CASO DI FALLIMENTO
