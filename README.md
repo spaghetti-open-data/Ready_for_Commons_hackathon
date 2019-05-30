@@ -24,9 +24,9 @@ I partecipanti si dividono in gruppi da 3/4 persone. Il *Master* controlla l'and
 * **Scopo**: devono realizzare un progetto a Milano in cui ogni partner diretto o indiretto ottenga un valore economico e sociale dalla condivisione e uso dei dati.
 * **Strumenti**:
 
-••• Dati ([Open Data Comune di Milano](http://dati.comune.milano.it/), che altre fonti sia pubbliche che private)
-••• Open Business Model
-••• Ogni gruppo ha tre carte (Carta Aiuto, Carta Scambio, Carta Pitch)
+1. Dati ([Open Data Comune di Milano](http://dati.comune.milano.it/), che altre fonti sia pubbliche che private)
+2. Open Business Model
+3. Ogni gruppo ha tre carte (Carta Aiuto, Carta Scambio, Carta Pitch)
 
 * **La sfida** è fare in modo che tutti siano contenti e che ottengano valore (sociale e economico)bisogno, servizio, come scala
 * **Svolgimento**: ogni gruppo compone il proprio Open Business Model Canvas e una descrizione, può scegliere un modello concorrente (vincere da soli il miglior progetto) o collaborativo (ci si allea con un altro team). Alla fine di 2 ore e mezza si fa una presentazione di 10 minuti e si viene votati dagli altri partecipanti.
