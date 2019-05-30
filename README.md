@@ -16,8 +16,8 @@ Alla fine delle 5 ore ognuno avrà potuto giocare a gestire un insieme di dati e
 
 ## Q&A 20 min
 
-### Seconda parte Data Asset Game
-I partecipanti si dividono in gruppi da 3/4 persone. Il *Master* controlla l'andamento, aiuta i team e attribuisce un punto nelle presentazioni finali.
+## Seconda parte Data Asset Game *(durata 2.5 ore)*
+I partecipanti si dividono in gruppi da 3/4 persone. Il *Master* controlla l'andamento, aiuta i team e attribuisce un voto da 1 a 10 nelle presentazioni finali.
 
 
 * **Scenario**: Ogni gruppo sceglie due committenti (a scelta: pubblico/pubblico, privato/privato, pubblico/privato).
@@ -30,3 +30,7 @@ I partecipanti si dividono in gruppi da 3/4 persone. Il *Master* controlla l'and
 
 * **La sfida** è fare in modo che tutti siano contenti e che ottengano valore (sociale e economico)bisogno, servizio, come scala
 * **Svolgimento**: ogni gruppo compone il proprio Open Business Model Canvas e una descrizione, può scegliere un modello concorrente (vincere da soli il miglior progetto) o collaborativo (ci si allea con un altro team). Alla fine di 2 ore e mezza si fa una presentazione di 10 minuti e si viene votati dagli altri partecipanti.
+
+## Valutazione finale
+Ogni team assegna un voto da 1 a 10 agli altri team. Il *Master* assegna un voto da 1 a 10 e si decide il vincitore.
+
