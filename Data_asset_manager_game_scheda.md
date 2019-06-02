@@ -2,6 +2,8 @@
 
 ## 1. INTRO & INFORMAZIONI GENERALI
 
+l'[Open Business Model Canvas](https://drive.google.com/open?id=1hNbih6fBMVYjcoUupXvUZJZfpDpvnqTC) 
+
 **1.1.1 Nome del Team**: I bricconi di #SOD19
 
 **1.1.2 Referente e ruolo**: Tommaso "power" Dradi, referente interno sia per SOD19 e Comune Milano
