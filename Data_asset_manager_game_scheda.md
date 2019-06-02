@@ -8,6 +8,12 @@
 
 **1.1.3 Introduci il tuo team** (in max 280 caratteri): Lanciamissili e alabarde spaziali
 
+* Ilaria Vitellio ilaria.vitellio@gmail.com
+* Tommaso Dradi tango@microonda.net
+* Nicolò Stasolla nicolostasolla@gmail.com
+* Fernando Galdino Pedron designer@fernandogaldino.com
+* Luca Corsato luca@osd.tools
+
 **1.2 A quale settore vi rivolgete?**
 
 * Enti Locali (Città metropolitana di Milano, Comune di Milano)
