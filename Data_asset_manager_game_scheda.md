@@ -18,7 +18,15 @@
 
 **N: Necessità** - L'Area C contingentava gli accessi per liberare il centro dai mezzi privati. L'Area B affronta il tema della sostenibilità ambientale e creare la Low Emission Zone [LEZ](https://www.comune.milano.it/low-emission-zone). La necessità è armonizzare i costi di accesso e sostituzione delle abitudini sia per i soggetti amministrativi (pianificazione e gestione), che per soggetti privati (costi di esercizio, riformulazione delle modalità di fruizione delle zone urbane).
 
-**A: Approccio** – soluzioni & go2market (valore offerto, fattibilità commerciale e tecnologica, possibilità / rischi di adozione))
+**A: Approccio** – Tutti i soggetti coinvolti sono suddivisibili in tre macrocategorie: Residenti, Pendolari, Turisti. Il nostro approccio è considerarli una sola categoria con la variabile di spazio e tempo. Esempio:
+
+* Residenti: persistono in uno spazio di città variabile per un tempo lungo
+* Turisti: persistono in uno spazio vasto di città per un tempo breve
+* Pendolari: persistono per un tempo breve ma continuativo in uno spazio circoscritto
+
+Il valore offerto è armonizzare le categorie con le limitazioni di accesso, per ottenere dei vantaggi sociali ed economici
+
+soluzioni & go2market (valore offerto, fattibilità commerciale e tecnologica, possibilità / rischi di adozione))
 
 **B: Beneficio** – I benefici sono legati alla qualità e al comfort nella presenza di persone e attività sul territorio comunale di Milano. La gestione però coinvolge un'area più vasta identificabile (amministrativamente) con la Città Metropolitana di Milano. Quindi i benefici sono anche di tipo amministrativo e di coordinamento infraistituzionale.
 
