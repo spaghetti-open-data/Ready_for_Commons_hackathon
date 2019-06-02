@@ -15,11 +15,11 @@
 
 ### 1.3 Sommario del business pitch (NABC)
 
-**N: Necessità** - Quali sono i problemi dei clienti/committenti e le dimensioni del mercato
+**N: Necessità** - L'Area C contingentava gli accessi per liberare il centro dai mezzi privati. L'Area B affronta il tema della sostenibilità ambientale e creare la Low Emission Zone [LEZ](https://www.comune.milano.it/low-emission-zone). La necessità è armonizzare i costi di accesso e sostituzione delle abitudini sia per i soggetti amministrativi (pianificazione e gestione), che per soggetti privati (costi di esercizio, riformulazione delle modalità di fruizione delle zone urbane).
 
 **A: Approccio** – soluzioni & go2market (valore offerto, fattibilità commerciale e tecnologica, possibilità / rischi di adozione))
 
-**B: Beneficio** – valore aggiunto per clienti e risultati di business (vantaggi per il cliente, tipo di profitto, dimensioni delle opportunità di business, previsioni di crescita e stime)
+**B: Beneficio** – I benefici sono legati alla qualità e al comfort nella presenza di persone e attività sul territorio comunale di Milano. La gestione però coinvolge un'area più vasta identificabile (amministrativamente) con la Città Metropolitana di Milano. Quindi i benefici sono anche di tipo amministrativo e di coordinamento infraistituzionale.
 
 **C: Competitività** – competitività (USP - unique selling proposition - alternative, sostenibilità rispetto alla concorrenza)
 
