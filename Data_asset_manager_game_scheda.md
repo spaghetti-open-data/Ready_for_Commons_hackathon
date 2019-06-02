@@ -4,9 +4,9 @@
 
 **1.1.1 Nome del Team**: I bricconi di #SOD19
 
-**1.1.2 Referente e ruolo**: Tommaso "power" Dradi
+**1.1.2 Referente e ruolo**: Tommaso "power" Dradi, referente interno sia per SOD19 e Comune Milano
 
-**1.1.3 Introduci il tuo team in max 280 caratteri**: Lanciamissili e alabarde spaziali
+**1.1.3 Introduci il tuo team** (in max 280 caratteri): Lanciamissili e alabarde spaziali
 
 **1.2 A quale settore vi rivolgete?**
 
