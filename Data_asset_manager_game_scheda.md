@@ -10,6 +10,7 @@
 
 * Ilaria Vitellio ilaria.vitellio@gmail.com
 * Tommaso Dradi tango@microonda.net
+* Matteo Brunati matteo.brunati@gmail.com
 * Nicolò Stasolla nicolostasolla@gmail.com
 * Fernando Galdino Pedron designer@fernandogaldino.com
 * Luca Corsato luca@osd.tools
