@@ -2,16 +2,17 @@
 
 ## 1. INTRO & INFORMAZIONI GENERALI
 
-**1.1.1 Nome del Team**:
+**1.1.1 Nome del Team**: I bricconi di #SOD19
 
-**1.1.2 Referente e ruolo**:
+**1.1.2 Referente e ruolo**: Tommaso "power" Dradi
 
-**1.1.3 Introduci il tuo team in max 280 caratteri**:
+**1.1.3 Introduci il tuo team in max 280 caratteri**: Lanciamissili e alabarde spaziali
 
 **1.2 A quale settore vi rivolgete?**
 
-* xyz
-* xyz
+* Enti Locali (Città metropolitana di Milano, Comune di Milano)
+* Aziende Partecipate (ATM, AMAT, Trenord)
+* Aziende Private (Mobility manager di Aziende, Rivenditori veicoli privati)
 
 ### 1.3 Sommario del business pitch (NABC)
 
