@@ -58,6 +58,13 @@ C:
 
 ### 2.1 Pacchetti di lavoro, attività, misure e tempistica:
 
+Necessitano almeno altri 4 OBM:
+
+* Distribuzione dei dati di ATM e AMAT
+* Aggregazione aperta dei dati delle aziende di servizi sharing
+* Aggregazione aperta dei gestionali multichannel delle case vacanza /hotel
+* Aggregazione aperta dei dati dei Mobility Manager Aziendali
+
 #### 2.1.1 PACCHETTO DI LAVORO (epiche) (COMPITI/ ATTIVITÀ )
 
 #### 2.1.2 MISURAZIONI/CONSEGNE
